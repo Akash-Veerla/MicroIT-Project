@@ -1,27 +1,17 @@
 # MicroIT-Projects
 
-This repository contains two C++ based utility tools created as part of a Micro IT Internship. Each tool is written with simplicity, usability, and practicality in mind, focused on console-based applications.
+This repository contains two practical C++ console-based utilities developed during a Micro IT Internship, focusing on simplicity and usability.
 
 ## Projects Included
 
 ### 📁 File Encryption/Decryption Tool
 
-A simple command-line utility that lets you encrypt and decrypt files using a custom algorithm. Designed for basic file security tasks.
-
-- **main.cpp**: Entry point for the application.
-- **encryption.cpp**: Contains encryption and decryption logic.
-- **encryption.h**: Header file for encryption functions.
+A console application that encrypts and decrypts files with AES and password protection. Includes password validation and secure key derivation.
 
 ### 📁 Stop Watch / Clock
 
-A menu-based utility offering:
-- ⏱ Stopwatch
-- 🕒 Real-time Clock
-- ⏳ Countdown Timer
-- 🕘 Full History Tracking for sessions
-
-Built in a single file with a clean, text-based menu interface.
+A text-menu utility offering stopwatch, real-time clock, countdown timer, and history logging — all in a single file for quick and efficient use.
 
 ---
 
-> These projects are designed for Micro IT Internship Program. Contributions, forks, and ideas are welcome!
+> Created for Micro IT Internship Program. Contributions and ideas are welcome!
