@@ -1,6 +1,6 @@
 # MicroIT-Projects
 
-This repository contains two C++ based utility tools created as part of a Micro IT project. Each tool is written with simplicity, usability, and practicality in mind, focused on console-based applications.
+This repository contains two C++ based utility tools created as part of a Micro IT Internship. Each tool is written with simplicity, usability, and practicality in mind, focused on console-based applications.
 
 ## Projects Included
 
